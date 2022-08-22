@@ -1,4 +1,6 @@
-#### Profitable App Profiles
+#### About Profitable App Profiles
+
+Profitable App Profiles is a guided project under Dataquest's Data Scientist in Python course.
 
 ##### Aim
 
